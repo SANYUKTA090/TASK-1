@@ -1,4 +1,4 @@
-![g](https://github.com/user-attachments/assets/3b30eb2b-89df-4f61-b86d-d759c1666906)# TASK-1
+# TASK-1
 NMAP &amp; WIRESHARK
 Cybersecurity Internship – Task 1: Nmap-Based Network Scanning
 1) Objective
